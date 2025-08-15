@@ -1,0 +1,22 @@
+npm init -y
+npm install express@4.18.2
+npm install nodemon -D
+npm i @upstash/ratelimit@2.0.5 @upstash/redis@1.34.9
+
+npm create vite@latest .
+npm install
+npm i react-router/ react-hot-toast
+tailwind - version 3, then copy install cmds from website
+npm i daisyui@4.12.24 -D
+npm i axios
+npm i cors@2.8.5
+
+toast
+react-router
+daisyui
+lucide-react
+axios
+
+password mongodb - stvUHcFLqMtBZspw
+connection string - mongodb+srv://agrimkaushik25:stvUHcFLqMtBZspw@cluster0.x54aybx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+mongodb+srv://agrimkaushik25:<db_password>@cluster0.x54aybx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
