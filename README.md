@@ -1,5 +1,7 @@
 # ThinkBoard - MERN Stack Note Taking Application 📝
 
+![ThinkBoard Preview]([docs/images/preview.png](https://github.com/Agrim-Kaushik/Notes-Saving-App/blob/main/Preview.png?raw=true))
+
 ## ✨ Features
 
 - 🧱 Built with MERN Stack (MongoDB, Express, React, Node)
