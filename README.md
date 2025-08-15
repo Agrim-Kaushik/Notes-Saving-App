@@ -1,6 +1,6 @@
 # ThinkBoard - MERN Stack Note Taking Application 📝
 
-![ThinkBoard Preview]([docs/images/preview.png](https://github.com/Agrim-Kaushik/Notes-Saving-App/blob/main/Preview.png?raw=true))
+![ThinkBoard Preview](https://github.com/Agrim-Kaushik/Notes-Saving-App/blob/576cf3b2295524fb4ea550bb9b60f916c4db5398/Preview.png)
 
 ## ✨ Features
 
